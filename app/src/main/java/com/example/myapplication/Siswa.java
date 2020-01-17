@@ -4,7 +4,6 @@ public class Siswa {
     String nama;
     String kelas;
     String alamat;
-    int p = 1;
 
 
     public String getNama (){
